@@ -5,7 +5,7 @@ A trivia quiz app with multiple choice questions (and restarts automatically upo
 
 ## Screenshots
 
-<img src="Documentation/Screenshot1.png" width="200">
+<img src="Documentation/Screenshot1.png" width="200">     <img src="Documentation/Screenshot2.png" width="200">
 
 ## What I have learned
 
